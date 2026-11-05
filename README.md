@@ -57,7 +57,3 @@ Inspect supporting PivotTables in `Pivot_Analysis`. Refresh PivotTables
 after updating source data and check formulas before presenting updated
 results.
 
-## Submission
-
-Include the completed Excel workbook and a readable PDF export. Share
-the original dataset and supporting files only if permitted.
